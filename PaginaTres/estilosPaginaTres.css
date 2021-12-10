@@ -1,0 +1,116 @@
+div#contenedorArriba {
+	background: linear-gradient(to right, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 8%, rgba(209,209,209,1) 52%, rgba(255,255,255,1) 100%);
+	height: 150px;
+	margin: -20px 0px 0px -10px;
+}
+
+div#Simbolo {
+	background-color: background-color: rgba(255, 0, 0, 0.5);
+	width: 100px;
+	height: 100px;
+	margin: -120px 0px 0px 100px;
+	
+}
+
+div#Nombre {
+	background-color: background-color: rgba(255, 0, 0, 0.5);
+	width: 550px;
+	height: 50px;
+	margin: -75px 0px 0px 250px;
+	
+}
+
+div#Chile1 {
+	background-color: background-color: rgba(255, 0, 0, 0.5);
+	width: 120px;
+	height: 120px;
+	margin: -85px 0px 0px 1100px;
+	
+}
+
+div#Chile3 {
+	background-color: background-color: rgba(255, 0, 0, 0.5);
+	width: 120px;
+	height: 120px;
+	margin: -120px 0px 0px 1000px;
+	
+}
+
+div#Centro2 {
+	background: linear-gradient(to right, rgba(255,175,75,1) 0%, rgba(255,175,75,1) 45%, rgba(255,146,10,1) 100%);
+	width: 1515px;
+	height: 1500px;
+	margin: 0px 0px 0px -10px;
+	
+ }
+
+ div#Promociones {
+	background-color: background-color: rgba(255, 0, 0, 0.5);
+	width: 120px;
+	height: 40px;
+	margin: -1450px 0px 0px 650px;
+	
+}
+
+ div#Promocion1 {
+	background-color: black;
+	width: 300px;
+	height: 300px;
+	margin: 70px 0px 0px 100px;
+	
+}
+
+div#Promocion1Cuadro {
+	background: linear-gradient(to right, rgba(169,3,41,1) 0%, rgba(143,2,34,1) 44%, rgba(109,0,25,1) 100%);
+	width: 500px;
+	height: 150px;
+	margin: -225px 0px 0px 550px;
+
+	border-radius: 23px 23px 23px 23px;
+	-moz-border-radius: 23px 23px 23px 23px;
+	-webkit-border-radius: 23px 23px 23px 23px;
+	border: 7px solid #000000;
+	
+}
+
+ div#Promocion2 {
+	background-color: black;
+	width: 300px;
+	height: 300px;
+	margin: 200px 0px 0px 100px;
+	
+}
+
+div#Promocion2Cuadro {
+	background: linear-gradient(to right, rgba(169,3,41,1) 0%, rgba(143,2,34,1) 44%, rgba(109,0,25,1) 100%);
+	width: 500px;
+	height: 150px;
+	margin: -225px 0px 0px 550px;
+
+	border-radius: 23px 23px 23px 23px;
+	-moz-border-radius: 23px 23px 23px 23px;
+	-webkit-border-radius: 23px 23px 23px 23px;
+	border: 7px solid #000000;
+	
+}
+
+ div#Promocion3 {
+	background-color: black;
+	width: 300px;
+	height: 300px;
+	margin: 200px 0px 0px 100px;
+	
+}
+
+div#Promocion3Cuadro {
+	background: linear-gradient(to right, rgba(169,3,41,1) 0%, rgba(143,2,34,1) 44%, rgba(109,0,25,1) 100%);
+	width: 500px;
+	height: 200px;
+	margin: -265px 0px 0px 550px;
+
+	border-radius: 23px 23px 23px 23px;
+	-moz-border-radius: 23px 23px 23px 23px;
+	-webkit-border-radius: 23px 23px 23px 23px;
+	border: 7px solid #000000;
+	
+}
